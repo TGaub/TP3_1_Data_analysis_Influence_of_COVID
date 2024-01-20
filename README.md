@@ -32,6 +32,7 @@ pip install sklearn.preprocessing
 - [numpy](https://numpy.org/)
 - [matplotlib](https://matplotlib.org/)
 - [sklearn](https://scikit-learn.org/stable/)
+- [plotly](https://plotly.com/)
 
 ## Datasets
 
