@@ -37,15 +37,14 @@ pip install sklearn.preprocessing
 
 We use different kind of data in our Project. All of the datasets are sotred in the folder "\Data" in this repository. All finance datasets have a time range from 02.01.2014 to 16.01.2024.
 
-| Source                        | About                              | URL                                          |
-| ----------------------------- | ---------------------------------- | -------------------------------------------- |
-| owid-covid-data.csv           | Worldwide Confirmed COVID-19 Cases | <https://ourworldindata.org/covid-cases>     |
-| BTCinUSD.xlsx                 | Daily Bitcoin price                | https://www.investing.com/crypto/bitcoin     |
-| BTC_USD_Historical_Data.csv   | ""                                 | ""                                           |
-| S-P_500_Historical_Data.csv   | Daily S&P500 price                 | https://www.investing.com/indices/us-spx-500 |
-| Dow_Jones_Historical_Data.csv | Daily Dow Jones Price              | https://www.investing.com/indices/us-30      |
-| Gold_Historical_Data.csv      | Daily Gold Price                   | https://www.investing.com/commodities/gold   |
-| ETH_USD_Historical_Data.csv   | Daily Etherum Price                | https://www.investing.com/crypto/ethereum    |
+| Source                        | About                              | URL                                           |
+| ----------------------------- | ---------------------------------- | --------------------------------------------- |
+| owid-covid-data.csv           | Worldwide Confirmed COVID-19 Cases | <https://ourworldindata.org/covid-cases>      |
+| BTC_USD_Historical_Data.csv   | Daily Bitcoin price                | <https://www.investing.com/crypto/bitcoin>    |
+| S-P_500_Historical_Data.csv   | Daily S&P500 price                 | <https://www.investing.com/indices/us-spx-500>|
+| Dow_Jones_Historical_Data.csv | Daily Dow Jones Price              | <https://www.investing.com/indices/us-30>     |
+| Gold_Historical_Data.csv      | Daily Gold Price                   | <https://www.investing.com/commodities/gold>  |
+| ETH_USD_Historical_Data.csv   | Daily Etherum Price                | <https://www.investing.com/crypto/ethereum>   |
 
 ## About
 
