@@ -5,11 +5,11 @@
 ## Authors
 
 Tamino Gaub - 12314484 - <tamino.gaub@student.uibk.ac.at><br />
-Maximilian Stablum - 12312185 <maximilian.stablum@student.uibk.ac.at><br />
-Dominik Klucka - 51914429 <dominik.klucka@student.uibk.ac.at><br />
-Nicole Szeverinski - 1191227 <nicole.szeverinski@student.uibk.ac.at><br />
-Linus Link - 12330856 <linus.link@student.uibk.ac.at><br />
-Louis Lange - 2305139 <louis.lange@student.uibk.ac.at><br />
+Maximilian Stablum - 12312185 - <maximilian.stablum@student.uibk.ac.at><br />
+Dominik Klucka - 51914429 - <dominik.klucka@student.uibk.ac.at><br />
+Nicole Szeverinski - 1191227 - <nicole.szeverinski@student.uibk.ac.at><br />
+Linus Link - 12330856 - <linus.link@student.uibk.ac.at><br />
+Louis Lange - 2305139 - <louis.lange@student.uibk.ac.at><br />
 
 ## Installation
 
@@ -36,7 +36,7 @@ pip install sklearn.preprocessing
 
 ## Datasets
 
-We use different kind of data in our Project. All of the datasets are sotred in the folder "\Data" in this repository. All finance datasets have a time range from 02.01.2014 to 16.01.2024.
+We use different kind of data in our Project. All of the datasets are sotred in the folder "\Data" in this repository. All finance datasets have a time range from 02.01.2014 to 01.01.2024.
 
 | Source                        | About                              | URL                                           |
 | ----------------------------- | ---------------------------------- | --------------------------------------------- |
@@ -45,6 +45,7 @@ We use different kind of data in our Project. All of the datasets are sotred in 
 | S-P_500_Historical_Data.csv   | Daily S&P500 price                 | <https://www.investing.com/indices/us-spx-500>|
 | Dow_Jones_Historical_Data.csv | Daily Dow Jones Price              | <https://www.investing.com/indices/us-30>     |
 | Gold_Historical_Data.csv      | Daily Gold Price                   | <https://www.investing.com/commodities/gold>  |
+| Silver_Historical_Data.csv    | Daily Silver Price                 | <https://www.investing.com/commodities/silver>|
 | ETH_USD_Historical_Data.csv   | Daily Etherum Price                | <https://www.investing.com/crypto/ethereum>   |
 
 ## About
